@@ -1,0 +1,5 @@
+{
+  "name": "WOW Veo 3 & Image Prompt Studio",
+  "description": "An application to generate detailed prompts for Veo 3 video generation, create prompts from images, and generate structured prompts for image creation. Styled with a sea blue glassmorphism theme.",
+  "requestFramePermissions": []
+}
